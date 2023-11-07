@@ -153,11 +153,6 @@ spend more time looking for a better API.
 <br>
 
 ![image12](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%203.png)
-<br>
-
-<br/>
-<br/>
-<br/>
 
 
 
