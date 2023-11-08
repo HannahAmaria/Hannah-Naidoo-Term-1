@@ -66,12 +66,12 @@ Ensure that you have the latest version of [NPM](https://www.npmjs.com/) install
 Here are a couple of ways to clone this repo:
 
 1. GitHub Desktop </br>
-Enter `https://github.com/HannahAmaria/Hannah-Naidoo-DV200-` into the URL field and press the `Clone` button.
+Enter `https://github.com/HannahAmaria/Hannah-Naidoo-Term-1` into the URL field and press the `Clone` button.
 
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/HannahAmaria/Hannah-Naidoo-DV200-
+   gh repo clone HannahAmaria/Hannah-Naidoo-Term-1
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
@@ -89,29 +89,15 @@ Run the following in the command-line to install all the required dependencies:
 
 I made use of the COVID19 API's to collect data and implement it into an awesome react experience. 
 
-![image3](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%201.png)
-### Global COVID-19 data
-
 On the Front Page you'll be able to see all the Cases, deaths and Recoveries worldwide!
 
-![image4](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Wireframe%20-%20Comparison%20Page.jpg)
-### Compare COVID-19 statistics
-
 On the Comparison page you'll be able to compare data between population, cases, deaths and recoveries filtered by country!
-
-![image5](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Wireframe%20-%20Timeline%20Page.jpg)
 
 ## Concept Process
 
 The `Conceptual Process` is the set of actions, activities and research that was done when starting this project.
 
 ### Ideation
-
-### Wireframes
-
-![image7](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Wireframe%20-%20Home%20Page.jpg)
-![image8](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Wireframe%20-%20Comparison%20Page.jpg)
-![image9](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Wireframe%20-%20Timeline%20Page.jpg)
 
 ## Development Process
 
@@ -149,7 +135,7 @@ spend more time looking for a better API.
 
 ### Mockups
 
-![image10](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%201.png)
+![image10](/src/img)
 <br>
 
 ![image11](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%202.png)
