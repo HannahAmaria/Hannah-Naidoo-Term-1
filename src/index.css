@@ -1,0 +1,308 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  background-color: #fcfcfc;
+}
+
+h1, h2{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h3, h4, p, a{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h3{
+  margin-bottom: 3%;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.Home, .Comparative, .Timeline{
+  width: 81%;
+  height: 96vh;
+  padding: 2%;
+  padding-bottom: 0;
+  float: left;
+  overflow: scroll;
+}
+
+/* ---------------------------------------- */
+/* Nav Styling */
+
+.Nav{
+  width: 15%;
+  height: 100vh;
+  background-color: #031926;
+  color: white;
+  float: left;
+  justify-content: center;
+  position: relative;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.Logo{
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 150px;
+  height: 150px;
+  background-image: url("Img/Logo.png");
+  background-position: center;
+  background-size: contain;
+}
+
+.navItems{
+  margin-top: 53vh;
+}
+
+.navItems P{
+  padding: 5%;
+}
+
+.navItems p:hover{
+  font-weight: bold;
+  color: white;
+}
+
+.active p{
+  font-weight: bold;
+  color: white;
+}
+
+/* ---------------------------------------- */
+/* Landing Styling */
+
+.leftBlock{
+  width: 70%;
+  float: left;
+}
+
+.rightBlock{
+  width: 30%;
+  height: auto;
+  float: left;
+}
+
+.AboutBlock{
+  width: 100%;
+  height: 33vh;
+  margin-bottom: 2%;
+}
+
+.welcomeImage{
+  width: 30%;
+  height: 250px;
+  background-image: url('Img/Image.png');
+  background-position: center;
+  background-size: cover;
+  float: left;
+}
+
+.welcomeText{
+  margin-top: 5%;
+  width: 63%;
+  float: left;
+  margin-left: 3%;
+}
+
+.ComparativeData{
+  width: 55%;
+  height: 325px;
+  padding: 1% 2%;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+  float: left;
+  margin-bottom: 5%;
+  margin-right: 3%;
+}
+
+.historyData{
+  width: 38%;
+  border-radius: 20px;
+  height: 300px;
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+  float: left;
+}
+
+.globalStats{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cases, .deaths, .recoveries{
+  width: 28%;
+  border-radius: 20px;
+  padding: 1% 2%;
+  color: white;
+}
+
+.cases{
+  background-color: #031926;
+}
+
+.deaths{
+  background-color: #031926;
+}
+
+.recoveries{
+  background-color: #031926;
+}
+
+.precautions{
+  width: 88%;
+  height: auto;
+  padding: 6% 2%;
+  float: right;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+}
+
+.precautions h3{
+  padding: 1% 2%;
+}
+
+.precautions p{
+  width: 60%;
+  margin-top: 15%;
+  margin-bottom: 5%;
+  padding-right: 3%;
+}
+
+.tip{
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+}
+
+.vaccination{
+  margin-top: 10%;
+  width: 20%;
+  height: 60px;
+  background-position: center;
+  background-size: cover;
+}
+
+.washHands{
+  margin-top: 10%;
+  width: 20%;
+  height: 60px;
+  background-position: center;
+  background-size: cover;
+}
+
+.distance{
+  margin-top: 10%;
+  width: 20%;
+  height: 60px;
+  background-position: center;
+  background-size: cover;
+}
+
+.mask{
+  margin-top: 10%;
+  width: 20%;
+  height: 52px;
+  background-position: center;
+  background-size: cover;
+}
+
+.shield{
+  width: 88%;
+  height: 245px;
+  background-position: center;
+  background-size: cover;
+  margin-top: 20%;
+  float: right;
+}
+
+/* ---------------------------------------- */
+/* Comparative Data */
+.pageIntro{
+  float: left;
+  margin-bottom: 3%;
+}
+
+.Comparative h1{
+  text-align: left;
+}
+
+.Comparative p{
+  text-align: left;
+}
+
+.CountrySelect{
+  padding: 8px;
+  border-radius: 20px;
+  background-color: #031926;
+  color: white;
+  margin-bottom: 3%;
+  outline: none;
+  float: right;
+}
+
+.leftContainer{
+  width: 50%;
+  float: left;
+}
+
+.confirmedCases{
+  width: 90%;
+  padding: 1% 2%;
+  height: auto;
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+  border-radius: 20px;
+}
+
+.rightContainer{
+  width: 50%;
+  float: left;
+}
+
+.Deaths, .comparativeBlock{
+  width: 95%;
+  height: auto;
+  padding: 2%;
+
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+  border-radius: 20px;
+}
+
+.Deaths{
+  margin-bottom: 3%;
+}
+
+/* ---------------------------------------- */
+/* TimelineData */
+.TimelineBlock{
+  padding: 2%;
+  margin-top: 8%;
+  height: 70vh;
+  width: 96%;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.10);
+}
+
+.Timeline h1{
+  text-align: left;
+}
+
+.Timeline p{
+  text-align: left;
+}
