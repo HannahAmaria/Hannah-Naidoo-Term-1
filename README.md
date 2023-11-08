@@ -144,6 +144,9 @@ spend more time looking for a better API.
 
 ## Final Outcome
 
+## Walkthrough
+<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1W-lo_FTPaZtcAjyQ6Imc_yjybQda8vfl/view?usp=sharing">here</a></p>
+
 ### Mockups
 
 ![image10](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%201.png)
