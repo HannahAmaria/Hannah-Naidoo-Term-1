@@ -135,13 +135,13 @@ spend more time looking for a better API.
 
 ### Mockups
 
-![image10](/src/img)
+![image10](/src/Img/Mockup 1.jpg)
 <br>
 
-![image11](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%202.png)
+![image11](/src/Img/Mockup 2.jpg)
 <br>
 
-![image12](https://github.com/HannahAmaria/Hannah-Naidoo-DV200-/blob/main/Mockup%203.png)
+![image12](/src/Img/Mockup 3.jpg)
 
 
 
